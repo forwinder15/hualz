@@ -1,15 +1,15 @@
 social_icons:
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
+    title: Twitter
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
+  - icon: fa-instagram
+    title: Instagram
     url: '#'
 copyright: '&copy; Untitled.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Made with Stackbit by Frowind Development
+    url: ''
