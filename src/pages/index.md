@@ -12,40 +12,21 @@ sections:
         title: Upload
     section_id: one
     title: >-
-      We make logistics easy. Relax and let us handle it. 
+      We make logistics easy. Relax and take care of the important parts of your
+      business. 
     type: icons
   - component: Spotlights
-    icons:
-      - icon: fa-camera-retro
-        title: Ipsum lorem accumsan
-      - icon: fa-refresh
-        title: Sed vehicula elementum
-      - icon: fa-cloud
-        title: Elit fusce consequat
-      - icon: fa-code
-        title: Lorem nullam tempus
-      - icon: fa-desktop
-        title: Adipiscing amet sapien
+    icons: []
     section_id: two
     spotlights:
-      - image: images/pic01.jpg
+      - image: /images/stopwatch.png
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Magna sed ultrices
-      - image: images/pic02.jpg
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Ultrices nullam aliquam
-      - image: images/pic03.jpg
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Aliquam sed magna
+          We strive for on time service every time. We know how important it is
+          to be there when expected.
+        title: On time service
+      - image: /images/rush.jpg
+        text: With years of experience in rush freight we can get it there.
+        title: 'Expedited Professionals '
     title: Spotlights Section
     type: spotlights
   - actions:
@@ -57,8 +38,8 @@ sections:
     component: Cta
     section_id: three
     subtitle: |-
-       Get a quote today to learn more about how we can work for you!
-       Don't spend another day frustrated with logistics.
+      Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula  
+      lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.
     title: Let's move something
     type: cta
 template: home
