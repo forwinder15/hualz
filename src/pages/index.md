@@ -12,8 +12,7 @@ sections:
         title: Upload
     section_id: one
     title: >-
-      We make logistics easy. Relax and take care of the important parts of your
-      business. 
+      We make logistics easy. Relax and let us handle it. 
     type: icons
   - component: Spotlights
     icons:
@@ -58,8 +57,8 @@ sections:
     component: Cta
     section_id: three
     subtitle: |-
-      Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula  
-      lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.
+       Get a quote today to learn more about how we can work for you!
+       Don't spend another day frustrated with logistics.
     title: Let's move something
     type: cta
 template: home
