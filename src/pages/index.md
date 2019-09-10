@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - background_style: style2
+  - background_style: style1
     component: Icons
     icons:
       - icon: fa-truck
@@ -54,9 +54,7 @@ sections:
         is_scrolly: false
         label: Learn More
         url: /elements
-      - is_primary: false
-        is_scrolly: false
-    background_style: style4
+    background_style: style1
     component: Cta
     section_id: three
     subtitle: |-
