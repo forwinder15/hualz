@@ -8,7 +8,7 @@ sections:
         title: Shoot
       - icon: fa-refresh
         title: Process
-      - icon: fa-box
+      - icon: fa-thumbs-o-up
         title: Upload
     section_id: one
     title: >-
@@ -54,6 +54,8 @@ sections:
         is_scrolly: false
         label: Learn More
         url: /elements
+      - is_primary: false
+        is_scrolly: false
     background_style: style4
     component: Cta
     section_id: three
