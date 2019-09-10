@@ -8,12 +8,12 @@ sections:
         title: Shoot
       - icon: fa-refresh
         title: Process
-      - icon: fa-box-open
+      - icon: fa-box
         title: Upload
     section_id: one
-    title: |-
-      Sed ipsum magna lorem tempus amet
-      vehicula et gravida elementum
+    title: >-
+      We make logistics easy. Relax and take care of the important parts of your
+      business. 
     type: icons
   - component: Spotlights
     icons:
