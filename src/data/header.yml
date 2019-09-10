@@ -12,5 +12,5 @@ actions:
     label: Learn More
     url: '#one'
 img:
-  path: images/screen.jpg
+  path: /images/hand-truck.jpg
   phone_border: true
